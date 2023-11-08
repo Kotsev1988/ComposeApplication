@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ComposeApplication</string>
+    <string name="web_client_id">689208038488-vdcr3sqrjjrf6f08ith6fh79rvu8rd0v.apps.googleusercontent.com</string>
+    <string name="main_screen">Главная3</string>
+    <string name="blog_screen">Главная</string>
+    <string name="search_screen">Карта</string>
+    <string name="shopping_screen">Бронь</string>
+    <string name="message_screen">Чат</string>
+    <string name="detail_screen">Информация о блоге</string>
+    <string name="more_screen">Еще</string>
+    <string name="collapse">Свернуть</string>
+    <string name="read_more">Читать продолжение...</string>
+    <string name="loading_scrren">loading</string>
+    <string name="error">Ошибка загрузки</string>
+</resources>
